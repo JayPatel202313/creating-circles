@@ -1,0 +1,28 @@
+.container {
+    border: 5px solid black;
+    width: 95%;
+    height: 600px;
+}
+
+.makeCircle {
+    border-radius: 50px;
+    cursor: pointer; 
+    width: 170px;
+    background-color: hsl(1, 88%, 45%);
+    color: white;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.circle {
+    width: 20px;
+    height:20px;
+    border-radius: 50px;
+    position:absolute;
+}
+
+
+
